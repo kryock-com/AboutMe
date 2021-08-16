@@ -43,7 +43,7 @@ You didnt come this far to only come this far
 
 ## Persons of Interest
 
-[Albert Einstein][1]
+[Albert Einstein][1](albert einstein.jpg)
 
 [Thomas Edison][2]
 
