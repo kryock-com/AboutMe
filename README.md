@@ -3,7 +3,7 @@
 ---
 ## Summary
 
-My name is Kevin Yockey
+My name is Kevin Yockey. I go to Reitz 
 
 
 [1]: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
@@ -43,7 +43,7 @@ You didnt come this far to only come this far
 
 ## Persons of Interest
 
-[Albert Einstein][1](albert einstein.jpg)
+[Albert Einstein][1]
 
 [Thomas Edison][2]
 
@@ -51,6 +51,9 @@ You didnt come this far to only come this far
 
 
 
+| Terms | def | My def |
+|:-| ---- | ---- |
+|Hippopotomonstrosesquippedaliophobia | fear of long words | audible screaming |
 
 
 
