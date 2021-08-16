@@ -3,8 +3,14 @@
 ---
 ## Summary
 
-My name is Kevin
+My name is Kevin Yockey
 
+
+[1]: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+
+[2]: https://www.britannica.com/biography/Thomas-Edison
+
+[3]: https://www.britannica.com/biography/Hiram-Maxim
 Hobbies
 -
 
@@ -33,6 +39,15 @@ You didnt come this far to only come this far
 [Useless Websites](https://theuselessweb.com)
 
 [Google](https://www.google.com)
+
+
+## Persons of Interest
+
+[Albert Einstein][1]
+
+[Thomas Edison][2]
+
+[hiram maxim][3]
 
 
 
