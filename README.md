@@ -1,65 +1,33 @@
 # AboutMe
 ---
 ---
-## Summary
+## Goals / Sammary
 
-My name is Kevin Yockey. I go to Reitz 
+My name is Kevin Yockey. I born in ohio. I went to school at Union Local Schools. Then shortly after 7th grade started i moved to indiana, then start school at Perry Height Middle School. after middle school i went to F.J. Retiz High School.
 
-
-[1]: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-
-[2]: https://www.britannica.com/biography/Thomas-Edison
-
-[3]: https://www.britannica.com/biography/Hiram-Maxim
-Hobbies
+Career Goals
 -
 
-My hobbies include
+I would like to get a career in a computer science related felid where I could help the performance of a business by code or building something for them.
 
-- playing guitar
-+ listening to music
-* gaming
+Education Goals
+-
 
-My nighttime routine includes
-1. shower
-2. drink coffee
-3. stay up til 1 
-4. sleep
+I would like to go to Ivy Tech Community College for two or until I get a Associate degree, then transfer to University of Southern Indiana for another two years for a Bachelor's
+degree
 
+## Intrestest / Hobbies
 
-## My Philosophy
-*the only souce of knowledge is experience*
+Some thing I like doing are:
 
-        -Albert Einstein
+* playing guitar
 
-## Favorite Quotes
-You didnt come this far to only come this far
+* taking apart eletroics to see how they work
 
-## My Favorite Websites
-[Useless Websites](https://theuselessweb.com)
+* listening to music
 
-[Google](https://www.google.com)
-
-
-## Persons of Interest
-
-[Albert Einstein][1]
-
-[Thomas Edison][2]
-
-[hiram maxim][3]
-
-
-
-| Terms | def | My def |
-|:-| ---- | ---- |
-|Hippopotomonstrosesquippedaliophobia | fear of long words | audible screaming |
-
-
-
-
-
-
+## Quotes / Motto
+"Your Life is Made up of Two Dates and a Dash. Make the Most of the Dash."
 
 
 
