@@ -1,30 +1,29 @@
 # AboutMe
 ---
 ---
-## Goals / Sammary
+## Goals / Summary
 
-My name is Kevin Yockey. I born in ohio. I went to school at Union Local Schools. Then shortly after 7th grade started i moved to indiana, then start school at Perry Height Middle School. after middle school i went to F.J. Retiz High School.
+My name is Kevin Yockey. I was born in Ohio. I went to school at Union Local Schools in Ohio. Then shortly after 7th grade I moved to Indiana, then started school at Perry Height Middle School. After middle school I went to F.J. Reitz High School.
 
 Career Goals
 -
 
-I would like to get a career in a computer science related felid where I could help the performance of a business by code or building something for them.
+I would like to get a career in a computer science related field where I could help the performance of a business by code or building something for them.
 
 Education Goals
 -
 
-I would like to go to Ivy Tech Community College for two or until I get a Associate degree, then transfer to University of Southern Indiana for another two years for a Bachelor's
-degree
+I would like to go to Ivy Tech Community College for two or until I get a Associate degree, then transfer to University of Southern Indiana for another two years for a Bachelor's degree
 
-## Intrestest / Hobbies
+## Interests / Hobbies
 
-Some thing I like doing are:
+Something I like doing are:
 
-* playing guitar
+* Play guitar
 
-* taking apart eletroics to see how they work
+* Taking apart electronics to see how they work
 
-* listening to music
+* Listening to music
 
 ## Quotes / Motto
 "Your Life is Made up of Two Dates and a Dash. Make the Most of the Dash."
